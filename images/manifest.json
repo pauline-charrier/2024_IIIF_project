@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1620,
+    "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672/canvas/",
+    "label" : {
+      "none" : [ "Anonyme_Louis_XIV_tenant_les_sceaux_c_1672" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 51,
+              "height" : 44
+            }, {
+              "width" : 102,
+              "height" : 88
+            }, {
+              "width" : 203,
+              "height" : 175
+            }, {
+              "width" : 405,
+              "height" : 350
+            }, {
+              "width" : 810,
+              "height" : 700
+            }, {
+              "width" : 1620,
+              "height" : 1400
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1620,
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1400
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1620,
+          "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1400
+        },
+        "target" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672/canvas/"
+      } ]
+    } ],
+    "height" : 1400
+  }, {
     "width" : 1024,
     "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682/canvas/",
     "label" : {
