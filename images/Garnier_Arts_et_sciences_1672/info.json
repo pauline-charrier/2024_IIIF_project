@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 61,
+    "height" : 48
+  }, {
+    "width" : 122,
+    "height" : 96
+  }, {
+    "width" : 243,
+    "height" : 191
+  }, {
+    "width" : 486,
+    "height" : 382
+  }, {
+    "width" : 972,
+    "height" : 763
+  }, {
+    "width" : 1944,
+    "height" : 1526
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1944,
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Garnier_Arts_et_sciences_1672",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1526
+}
