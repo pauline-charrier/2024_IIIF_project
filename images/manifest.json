@@ -1,0 +1,66 @@
+{
+  "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in pauline-charrier/2024_IIIF_project project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3989,
+    "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670/canvas/",
+    "label" : {
+      "none" : [ "Nocret_Portrait_mythologique_de_la_famille_royale_1670" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 125,
+              "height" : 88
+            }, {
+              "width" : 250,
+              "height" : 176
+            }, {
+              "width" : 499,
+              "height" : 352
+            }, {
+              "width" : 998,
+              "height" : 703
+            }, {
+              "width" : 1995,
+              "height" : 1405
+            }, {
+              "width" : 3989,
+              "height" : 2809
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3989,
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2809
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3989,
+          "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2809
+        },
+        "target" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670/canvas/"
+      } ]
+    } ],
+    "height" : 2809
+  } ]
+}
