@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 52,
+    "height" : 61
+  }, {
+    "width" : 104,
+    "height" : 122
+  }, {
+    "width" : 208,
+    "height" : 243
+  }, {
+    "width" : 416,
+    "height" : 485
+  }, {
+    "width" : 831,
+    "height" : 969
+  }, {
+    "width" : 1662,
+    "height" : 1938
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1662,
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Poerson_attr._Louis_XIV_en_Jupiter_vainqueur_de_la_Fronde_c_1652-1653",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1938
+}
