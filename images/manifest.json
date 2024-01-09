@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1024,
+    "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682/canvas/",
+    "label" : {
+      "none" : [ "Noblin_Lepeautre_Arbitre_paix_guerre_1682" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 49
+            }, {
+              "width" : 64,
+              "height" : 97
+            }, {
+              "width" : 128,
+              "height" : 194
+            }, {
+              "width" : 256,
+              "height" : 387
+            }, {
+              "width" : 512,
+              "height" : 774
+            }, {
+              "width" : 1024,
+              "height" : 1548
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1024,
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1548
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1024,
+          "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1548
+        },
+        "target" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682/canvas/"
+      } ]
+    } ],
+    "height" : 1548
+  }, {
     "width" : 1662,
     "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Poerson_attr._Louis_XIV_en_Jupiter_vainqueur_de_la_Fronde_c_1652-1653/canvas/",
     "label" : {
