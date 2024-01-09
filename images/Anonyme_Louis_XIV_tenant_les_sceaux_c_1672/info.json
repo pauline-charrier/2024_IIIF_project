@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 51,
+    "height" : 44
+  }, {
+    "width" : 102,
+    "height" : 88
+  }, {
+    "width" : 203,
+    "height" : 175
+  }, {
+    "width" : 405,
+    "height" : 350
+  }, {
+    "width" : 810,
+    "height" : 700
+  }, {
+    "width" : 1620,
+    "height" : 1400
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1620,
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1400
+}
