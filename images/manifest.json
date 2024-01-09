@@ -63,6 +63,63 @@
     } ],
     "height" : 1548
   }, {
+    "width" : 8409,
+    "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684/canvas/",
+    "label" : {
+      "none" : [ "LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 263,
+              "height" : 204
+            }, {
+              "width" : 526,
+              "height" : 407
+            }, {
+              "width" : 1052,
+              "height" : 814
+            }, {
+              "width" : 2103,
+              "height" : 1627
+            }, {
+              "width" : 4205,
+              "height" : 3253
+            }, {
+              "width" : 8409,
+              "height" : 6505
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 8409,
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6505
+          } ],
+          "format" : "image/jpeg",
+          "width" : 8409,
+          "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6505
+        },
+        "target" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684/canvas/"
+      } ]
+    } ],
+    "height" : 6505
+  }, {
     "width" : 1662,
     "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Poerson_attr._Louis_XIV_en_Jupiter_vainqueur_de_la_Fronde_c_1652-1653/canvas/",
     "label" : {
