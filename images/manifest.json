@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 6070,
+    "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667/canvas/",
+    "label" : {
+      "none" : [ "Testelin_Academie_royale_des_sciences_c_1667" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 190,
+              "height" : 109
+            }, {
+              "width" : 380,
+              "height" : 218
+            }, {
+              "width" : 759,
+              "height" : 436
+            }, {
+              "width" : 1518,
+              "height" : 871
+            }, {
+              "width" : 3035,
+              "height" : 1742
+            }, {
+              "width" : 6070,
+              "height" : 3483
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 6070,
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3483
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6070,
+          "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3483
+        },
+        "target" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667/canvas/"
+      } ]
+    } ],
+    "height" : 3483
+  }, {
     "width" : 1620,
     "id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672/canvas/",
     "label" : {
