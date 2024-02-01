@@ -1,0 +1,428 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Art as an arsenal of power: allegorical portraits of Louis XIV through the lens of IIIF technology",
+  "metadata" : [ {
+    "label" : "Authors",
+    "value" : "Various 17th-century artists of the French royal court",
+    "language" : "en"
+  }, {
+    "label" : "Context of production",
+    "value" : "Versailles, second half of the 17th century",
+    "language" : "en"
+  }, {
+    "label" : "Digital format",
+    "value" : "JPEG"
+  } ],
+  "description" : [ {
+    "@value" : "This manifest presents several portraits of Louis XIV. Royal propaganda: allegories and symbols in portraits of Louis XIV during his reign's prime, at a time marked by the turn towards absolute monarchy.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "attribution" : "Palace of Versailles, Bibliothèque nationale de France",
+  "viewingHint" : "individuals",
+  "sequences" : [ {
+    "@id" : "http://e2a2e795-b016-4361-a28e-f2a429bd2de7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://02b824fa-d90a-4432-9076-1380d7625a95",
+      "@type" : "sc:Canvas",
+      "label" : "Jean Nocret, Portrait mythologique de la famille de Louis XIV, 1670",
+      "height" : 2809,
+      "width" : 3989,
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Jean Nocret"
+      }, {
+        "label" : "Title",
+        "value" : "Mythological portrait of Louis XIV and the royal family"
+      }, {
+        "label" : "Date",
+        "value" : "1670"
+      }, {
+        "label" : "Credit",
+        "value" : "Museum of the History of France (Palace of Versailles)"
+      }, {
+        "label" : "Artistic technique",
+        "value" : "Oil on canvas"
+      }, {
+        "label" : "Dimensions",
+        "value" : "Height: 306cm, Width: 426,5cm"
+      }, {
+        "label" : "Format",
+        "value" : "JPEG"
+      }, {
+        "label" : "Inventory number",
+        "value" : "MV 2157"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a5611b21-507d-4f53-963b-debea7d06446",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Nocret_Portrait_mythologique_de_la_famille_royale_1670",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2809,
+          "width" : 3989
+        },
+        "on" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb",
+      "@type" : "sc:Canvas",
+      "label" : "Charles Poerson (attribué), Louis XIV en Jupiter, vainqueur de la Fronde, 1652-1653",
+      "height" : 1938,
+      "width" : 1662,
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Charles Poerson (attributed)"
+      }, {
+        "label" : "Title",
+        "value" : "Louis XIV as Jupiter and victor over the Fronde"
+      }, {
+        "label" : "Date",
+        "value" : "circa 1652-1653"
+      }, {
+        "label" : "Credit",
+        "value" : "Museum of the History of France (Palace of Versailles)"
+      }, {
+        "label" : "Artistic technique",
+        "value" : "Oil on canvas"
+      }, {
+        "label" : "Dimensions",
+        "value" : "Height: 170cm, Width: 146,5cm"
+      }, {
+        "label" : "Format",
+        "value" : "JPEG"
+      }, {
+        "label" : "Inventory number",
+        "value" : "MV 8073"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://928b1bc3-ce0e-41e0-8575-46e69dbffbfb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Poerson_attr._Louis_XIV_en_Jupiter_vainqueur_de_la_Fronde_c_1652-1653/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Poerson_attr._Louis_XIV_en_Jupiter_vainqueur_de_la_Fronde_c_1652-1653",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1938,
+          "width" : 1662
+        },
+        "on" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4",
+      "@type" : "sc:Canvas",
+      "label" : "Charles Le Brun, Le Roi gouverne par lui-même, 1678-1684",
+      "height" : 6505,
+      "width" : 8409,
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Charles Le Brun"
+      }, {
+        "label" : "Title",
+        "value" : "The King rules by himself"
+      }, {
+        "label" : "Date",
+        "value" : "circa 1678-1684"
+      }, {
+        "label" : "Credit",
+        "value" : "Palace of Versailles (Hall of Mirrors)"
+      }, {
+        "label" : "Artistic technique",
+        "value" : "Oil on canvas (vault painting)"
+      }, {
+        "label" : "Format",
+        "value" : "JPEG"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d1c5907b-6dde-4fda-aab6-297593027b9e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/LeBrun_Le_Roi_gouverne_par_lui-meme_c_1679-1684",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6505,
+          "width" : 8409
+        },
+        "on" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://62fd9a7f-a439-4d2d-875e-4a218dd18e2a",
+      "@type" : "sc:Canvas",
+      "label" : "Henri Testelin, Colbert présente à Louis XIV les membres de l'Académie royale des sciences, 1667",
+      "height" : 3483,
+      "width" : 6070,
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Henri Testelin"
+      }, {
+        "label" : "Title",
+        "value" : "Colbert presenting the members of the Royal Academy of Sciences to Louis XIV"
+      }, {
+        "label" : "Date",
+        "value" : "1667"
+      }, {
+        "label" : "Credit",
+        "value" : "Museum of the History of France (Palace of Versailles)"
+      }, {
+        "label" : "Artistic technique",
+        "value" : "Oil on canvas"
+      }, {
+        "label" : "Dimensions",
+        "value" : "Height: 348cm, Width: 590cm"
+      }, {
+        "label" : "Format",
+        "value" : "JPEG"
+      }, {
+        "label" : "Inventory number",
+        "value" : "MV 2074"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e845d642-ee6a-49e2-8d9e-a05cfb536566",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Testelin_Academie_royale_des_sciences_c_1667",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3483,
+          "width" : 6070
+        },
+        "on" : "http://62fd9a7f-a439-4d2d-875e-4a218dd18e2a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce",
+      "@type" : "sc:Canvas",
+      "label" : "Jean Garnier, Allégorie à Louis XIV, protecteur des Arts et des Sciences, 1672",
+      "height" : 1526,
+      "width" : 1944,
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Jean Garnier"
+      }, {
+        "label" : "Title",
+        "value" : "Allegory to Louis XIV, protector of the Arts and Sciences"
+      }, {
+        "label" : "Date",
+        "value" : "1672"
+      }, {
+        "label" : "Credit",
+        "value" : "Museum of the History of France (Palace of Versailles)"
+      }, {
+        "label" : "Artistic technique",
+        "value" : "Oil on canvas"
+      }, {
+        "label" : "Dimensions",
+        "value" : "Height: 163cm, Width: 204cm"
+      }, {
+        "label" : "Format",
+        "value" : "JPEG"
+      }, {
+        "label" : "Inventory number",
+        "value" : "MV 2184"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5d9c15f9-3b54-4d44-b80b-1a43002f2936",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Garnier_Arts_et_sciences_1672/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Garnier_Arts_et_sciences_1672",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1526,
+          "width" : 1944
+        },
+        "on" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b92a6d70-fc18-456a-8e71-693f5ac08cf6",
+      "@type" : "sc:Canvas",
+      "label" : "Henri Noblin, Pierre Lepeautre, Le Roi en son conseil, arbitre de la paix et de la guerre ou les heureux succès des ordres du Roi, 1682",
+      "height" : 1548,
+      "width" : 1024,
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Henri Noblin, Pierre Lepeautre"
+      }, {
+        "label" : "Title",
+        "value" : "The King in his council, mediator of war and peace, or the fortunate success of the King's orders"
+      }, {
+        "label" : "Date",
+        "value" : "1682"
+      }, {
+        "label" : "Credit",
+        "value" : "Bibliothèque nationale de France, Département Estampes et photographies"
+      }, {
+        "label" : "Artistic technique",
+        "value" : "Engraving"
+      }, {
+        "label" : "Format",
+        "value" : "JPEG"
+      }, {
+        "label" : "Shelf mark",
+        "value" : "RESERVE QB-201 (171)-FT 5 [Hennin, 5227"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8e174610-56f5-4f5a-b053-997444a49669",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Noblin_Lepeautre_Arbitre_paix_guerre_1682",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1548,
+          "width" : 1024
+        },
+        "on" : "http://b92a6d70-fc18-456a-8e71-693f5ac08cf6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d817c948-917c-4666-9937-03b6bc1dfc05",
+      "@type" : "sc:Canvas",
+      "label" : "Anonyme, Louis XIV tenant les sceaux en présence des conseillers d'Etat et des maîtres des Requêtes, 1672",
+      "height" : 1400,
+      "width" : 1620,
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Unknown"
+      }, {
+        "label" : "Title",
+        "value" : "Louis XIV holding the royal seal in the presence of his councillors and masters of requests"
+      }, {
+        "label" : "Date",
+        "value" : "1672"
+      }, {
+        "label" : "Credit",
+        "value" : "Museum of the History of France (Palace of Versailles)"
+      }, {
+        "label" : "Artistic technique",
+        "value" : "Oil on canvas"
+      }, {
+        "label" : "Dimensions",
+        "value" : "Height: 110cm, Width: 128cm"
+      }, {
+        "label" : "Format",
+        "value" : "JPEG"
+      }, {
+        "label" : "Inventory number",
+        "value" : "MV 5638"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b3df2a21-ef58-4a3c-bc87-961870105e97",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/images/Anonyme_Louis_XIV_tenant_les_sceaux_c_1672",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1400,
+          "width" : 1620
+        },
+        "on" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government",
+    "@type" : "sc:Range",
+    "label" : "Symbols of 'good government'",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government/knowledge",
+      "@type" : "sc:Range",
+      "label" : "Knowledge",
+      "canvases" : [ "http://62fd9a7f-a439-4d2d-875e-4a218dd18e2a" ]
+    }, {
+      "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government/arts",
+      "@type" : "sc:Range",
+      "label" : "Arts",
+      "canvases" : [ "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce" ]
+    }, {
+      "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government/diplomacy",
+      "@type" : "sc:Range",
+      "label" : "Diplomacy",
+      "canvases" : [ "http://b92a6d70-fc18-456a-8e71-693f5ac08cf6" ]
+    }, {
+      "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government/justice",
+      "@type" : "sc:Range",
+      "label" : "Authority and justice",
+      "canvases" : [ "http://d817c948-917c-4666-9937-03b6bc1dfc05" ]
+    } ]
+  }, {
+    "@id" : "http://example.org/iiif/art-as-arsenal/range/allegories",
+    "@type" : "sc:Range",
+    "label" : "Allegorical portraits",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/art-as-arsenal/range/allegories/pantheon",
+      "@type" : "sc:Range",
+      "label" : "Pantheon",
+      "canvases" : [ "http://02b824fa-d90a-4432-9076-1380d7625a95" ]
+    }, {
+      "@id" : "http://example.org/iiif/art-as-arsenal/range/allegories/jupiter",
+      "@type" : "sc:Range",
+      "label" : "Jupiter",
+      "canvases" : [ "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb" ]
+    }, {
+      "@id" : "http://example.org/iiif/art-as-arsenal/range/allegories/among-gods",
+      "@type" : "sc:Range",
+      "label" : "A king among the Gods",
+      "canvases" : [ "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4" ]
+    } ]
+  } ]
+}
