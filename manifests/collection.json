@@ -1,0 +1,13 @@
+{
+  "id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in pauline-charrier/2024_IIIF_project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json",
+    "label" : "Art as an arsenal of power: allegorical portraits of Louis XIV through the lens of IIIF technology"
+  } ]
+}
