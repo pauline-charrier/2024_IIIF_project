@@ -1,0 +1,633 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "King Louis XIV, wearing an ancient-style cuirass and royal blue coat. He is holding a ship's tiller in his right hand (the image is reversed). The painting was commissioned by the king to celebrate the French victory in the Dutch War (1672-1678) and the following Treaty of Nijmegen (1678), allowing further expansion of French territory.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>King Louis XIV, wearing an ancient-style cuirass and royal blue coat. He is holding a ship's tiller in his right hand (the image is reversed). The painting was commissioned by the king to celebrate the French victory in the Dutch War (1672-1678) and the following Treaty of Nijmegen (1678), allowing further expansion of French territory.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:58:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821093681",
+    "dcterms:modified" : "2024-02-03T10:46:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3957,2910,993,1969"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3956.67883,2910.03471h496.42421v0h496.42421v984.28468v984.28468h-496.42421h-496.42421v-984.28468z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e6f64439-3104-4040-bd3d-7cf6c3bf3baf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pluto, god of the underworld",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pluto, god of the underworld</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-03T10:49:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706957374248",
+    "dcterms:modified" : "2024-02-03T10:49:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5752,693,1404,1558"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5752.15127,693.2808h702.17301v0h702.17301v778.77174v778.77174h-702.17301h-702.17301v-778.77174z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_133e08d6-fcbd-420a-8f1f-c9a8826a60ab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Three Graces",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Three Graces</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:58:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821125065",
+    "dcterms:modified" : "2024-02-01T20:58:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4477,2559,1390,1067"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4853.37797,2562.16851c157.18147,17.24869 355.07285,80.11098 527.10774,186.6197v0v0c172.03489,106.50873 296.99906,239.55297 402.27484,388.38696c105.27578,148.834 103.68515,275.39273 41.7948,362.64241c-61.89035,87.24968 -184.08043,135.1903 -343.16807,124.46685c-159.08764,-10.72345 -355.07285,-80.11098 -527.10774,-186.6197c-172.03489,-106.50873 -320.11945,-250.13866 -402.27484,-388.38696c-82.15539,-138.24831 -98.3816,-271.115 -41.7948,-362.64241c56.5868,-91.52741 185.9866,-141.71554 343.16807,-124.46685z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:31.74497475596754,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_768c3776-0902-4074-8880-31dbe1b8decf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Personification of the Seine",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Personification of the Seine</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:00:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821250420",
+    "dcterms:modified" : "2024-02-03T10:47:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6367,4434,792,1609"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7130.87488,4722.7362c-40.507,-147.89931 -115.36609,-266.86601 -210.51787,-285.54222v0v0c-95.15178,-18.67621 -196.55649,58.7422 -303.29677,184.01956c-106.74028,125.27736 -179.82335,333.87338 -218.40854,545.78518c-38.58519,211.9118 -42.67248,427.13938 -5.57955,587.83724c37.09293,160.69786 115.36609,266.86601 210.51787,285.54222c95.15178,18.67621 207.18217,-50.13951 303.29677,-184.01956c96.1146,-133.88005 176.31342,-332.82441 218.40854,-545.78518c42.09512,-212.96077 46.08655,-439.93793 5.57955,-587.83724z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:11.176886812939186,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_fc1c90d4-61d3-4574-b62b-8fe4ec27f26d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Allegory of glory",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Allegory of glory</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:04:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821459003",
+    "dcterms:modified" : "2024-02-01T21:04:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2016,366,1118,2004"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2029.73584,767.83829c35.02173,-193.32062 118.61807,-354.99115 241.08194,-392.53917v0v0c122.46386,-37.54802 264.87557,45.75805 420.13437,188.93018c155.25881,143.17213 276.57958,396.83208 353.07779,659.7268c76.49821,262.89471 108.17384,535.02419 79.19303,744.0644c-28.98081,209.04021 -118.61807,354.99115 -241.08194,392.53917c-122.46386,37.54802 -277.75433,-33.30689 -420.13437,-188.93018c-142.38004,-155.62329 -271.84966,-396.01498 -353.07779,-659.7268c-81.22813,-263.71182 -114.21476,-550.74378 -79.19303,-744.0644z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-17.115220947972897,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_f321c791-d398-497d-a049-0351bd5e2164\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Vulcan, god of fire and metalworking",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Vulcan, god of fire and metalworking</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-03T10:50:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706957401596",
+    "dcterms:modified" : "2024-02-03T10:50:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6713,419,1016,1138"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7580.27047,585.99008c-93.82885,-95.55824 -226.18964,-166.71723 -359.19185,-166.63222v0v0c-133.00221,0.08502 -248.86944,66.6531 -359.19185,166.63222c-110.3224,99.97911 -153.20333,252.32798 -148.78214,402.28576c4.42119,149.95777 56.14449,297.52445 148.78214,402.28576c92.63765,104.7613 226.18964,166.71723 359.19185,166.63222c133.00221,-0.08502 265.45463,-62.21098 359.19185,-166.63222c93.73722,-104.42124 148.75923,-251.13775 148.78214,-402.28576c0.02291,-151.14801 -54.95329,-306.72751 -148.78214,-402.28576z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_56f84ebd-e0a5-4da0-9e25-ce605ac33bc3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Neptune, god of the sea",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Neptune, god of the sea</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-03T10:51:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706957469572",
+    "dcterms:modified" : "2024-02-03T10:51:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4151,667,726,848"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4770.90039,791.00328c-67.05186,-71.20901 -161.63937,-124.23595 -256.68525,-124.17259v0v0c-95.04588,0.06335 -177.84678,49.6692 -256.68525,124.17259c-78.83846,74.50339 -109.48198,188.03218 -106.32251,299.77916c3.15947,111.74697 40.12191,221.71212 106.32251,299.77916c66.2006,78.06703 161.63937,124.23595 256.68525,124.17259c95.04588,-0.06335 189.69887,-46.35897 256.68525,-124.17259c66.98638,-77.81362 106.30614,-187.14523 106.32251,-299.77916c0.01637,-112.63392 -39.27065,-228.57015 -106.32251,-299.77916z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2e0adcb4-a2ba-4849-a54a-dc89a48e5ac9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Allegory of France",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Allegory of France</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:00:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821202588",
+    "dcterms:modified" : "2024-02-01T21:00:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6656,3189,1158,1962"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7643.58211,3476.09567c-106.87252,-164.77801 -257.63353,-287.4826 -409.12512,-287.336v0v0c-151.49159,0.1466 -283.46618,114.93477 -409.12512,287.336c-125.65894,172.40123 -174.50098,435.10742 -169.46517,693.69048c5.0358,258.58305 63.94945,513.04297 169.46517,693.69048c105.51572,180.64751 257.63353,287.4826 409.12512,287.336c151.49159,-0.1466 302.35697,-107.2749 409.12512,-287.336c106.76815,-180.06111 169.43908,-433.05502 169.46517,-693.69048c0.02609,-260.63546 -62.59265,-528.91247 -169.46517,-693.69048z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_4821d02e-515b-4f48-be46-998a1bb995bf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Allegory of discord, defeated.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Allegory of discord, defeated.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:01:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821270655",
+    "dcterms:modified" : "2024-02-01T21:01:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=7285,5210,1031,721"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7284.7193,5209.60245h515.33353v0h515.33353v360.2771v360.2771h-515.33353h-515.33353v-360.2771z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7e75ed0a-a94b-4fb9-9af1-f20f6f82a5af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Minerva, goddess of strategy, wisdom and justice",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Minerva, goddess of strategy, wisdom and justice</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:59:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821149689",
+    "dcterms:modified" : "2024-02-03T10:47:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3048,2183,1201,1629"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4245.34197,2600.55622c-20.23236,-173.56194 -91.86188,-330.55129 -212.30783,-389.48322v0v0c-120.44595,-58.93193 -270.39445,-18.48601 -437.94496,70.54082c-167.55051,89.02683 -309.51265,280.28479 -407.03987,489.243c-97.52722,208.95821 -150.61953,435.61668 -137.69634,621.35327c12.92319,185.73659 91.86188,330.55129 212.30783,389.48322c120.44595,58.93193 282.39916,31.98109 437.94496,-70.54082c155.5458,-102.52191 304.68418,-280.61489 407.03987,-489.243c102.35569,-208.62811 157.9287,-447.79133 137.69634,-621.35327z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:26.12748254341363,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_cf1d541f-71c3-4557-b3bc-a86df7265f5a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ceres, goddess of agriculture and fertility",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ceres, goddess of agriculture and fertility</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:05:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821514086",
+    "dcterms:modified" : "2024-02-03T10:48:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3426,988,411,943"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3486.31799,1125.8124c37.98579,-79.1942 91.5709,-138.16744 145.41568,-138.09698v0v0c53.84478,0.07046 100.75262,55.23897 145.41568,138.09698c44.66306,82.85801 62.02303,209.11762 60.23315,333.39561c-1.78988,124.27799 -22.72961,246.57434 -60.23315,333.39561c-37.50354,86.82127 -91.5709,138.16744 -145.41568,138.09698c-53.84478,-0.07046 -107.46699,-51.55755 -145.41568,-138.09698c-37.94869,-86.53943 -60.22388,-208.13121 -60.23315,-333.39561c-0.00927,-125.2644 22.24736,-254.20141 60.23315,-333.39561z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_5e0ce890-683d-42eb-8e40-29543606a5e6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Allegory of renown",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Allegory of renown</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:04:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821486392",
+    "dcterms:modified" : "2024-02-03T10:48:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2768,1056,731,721"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2874.99193,1161.44269c67.4485,-60.58903 162.59553,-105.70763 258.20364,-105.65372v0v0c95.60811,0.05391 178.89882,42.26163 258.20364,105.65372c79.30482,63.39209 110.1296,159.98941 106.95145,255.07064c-3.17815,95.08123 -40.35924,188.64638 -106.95145,255.07064c-66.59221,66.42426 -162.59553,105.70763 -258.20364,105.65372c-95.60811,-0.05391 -190.82101,-39.44508 -258.20364,-105.65372c-67.38263,-66.20864 -106.93498,-159.23474 -106.95145,-255.07064c-0.01647,-95.8359 39.50295,-194.48161 106.95145,-255.07064z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_184e2404-cf2b-4f16-97f1-c9500f60162a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mars, god of war",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mars, god of war</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:02:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821377152",
+    "dcterms:modified" : "2024-02-03T10:48:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1376,1313,1032,1758"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1527.38876,1570.44393c95.27439,-147.66124 229.67434,-257.61957 364.7256,-257.4882v0v0c135.05126,0.13137 252.70356,102.99561 364.7256,257.4882c112.02204,154.49259 155.56359,389.90946 151.07429,621.6315c-4.4893,231.72204 -57.00946,459.74924 -151.07429,621.6315c-94.06483,161.88226 -229.67434,257.61957 -364.7256,257.4882c-135.05126,-0.13137 -269.54426,-96.13143 -364.7256,-257.4882c-95.18134,-161.35677 -151.05103,-388.07025 -151.07429,-621.6315c-0.02326,-233.56125 55.7999,-473.97026 151.07429,-621.6315z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_0cdb06a7-6b6b-4626-b55f-3965c6ed1b17\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Allegory of Victory",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Allegory of Victory</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:03:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821401984",
+    "dcterms:modified" : "2024-02-01T21:03:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=900,867,668,1297"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M997.66692,1056.70197c61.71964,-108.96248 148.78518,-190.10315 236.27265,-190.00621v0v0c87.48746,0.09694 163.70372,76.00273 236.27265,190.00621c72.56892,114.00348 100.77555,287.72277 97.86733,458.71556c-2.90821,170.99279 -36.93126,339.25908 -97.86733,458.71556c-60.93608,119.45648 -148.78518,190.10315 -236.27265,190.00621c-87.48746,-0.09694 -174.61328,-70.9375 -236.27265,-190.00621c-61.65936,-119.06871 -97.85227,-286.36558 -97.86733,-458.71556c-0.01507,-172.34998 36.1477,-349.75308 97.86733,-458.71556z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_342e37ae-9fae-4708-a958-def79a21b396\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Allegory of peace",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Allegory of peace</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:02:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821354959",
+    "dcterms:modified" : "2024-02-03T10:47:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2836,3839,580,1049"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2921.00406,3993.10438c53.53555,-88.12469 129.05612,-153.74815 204.94266,-153.66975v0v0c75.88654,0.0784 141.99645,61.4681 204.94266,153.66975c62.94621,92.20165 87.41261,232.69917 84.89003,370.9916c-2.52258,138.29243 -32.03414,274.37977 -84.89003,370.9916c-52.85589,96.61183 -129.05612,153.74815 -204.94266,153.66975c-75.88654,-0.0784 -151.45939,-57.37153 -204.94266,-153.66975c-53.48327,-96.29822 -84.87696,-231.60153 -84.89003,-370.9916c-0.01307,-139.39007 31.35448,-282.86691 84.89003,-370.9916z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_3177c630-8c53-4bbe-8d3e-abe9b2690406\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Allegories of amusement",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Allegories of amusement</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T21:01:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821313414",
+    "dcterms:modified" : "2024-02-03T10:47:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=417,4241,4079,2067"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M416.85396,4241.44523h2039.42479v0h2039.42479v1033.44892v1033.44892h-2039.42479h-2039.42479v-1033.44892z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_18e5f338-f9a4-4917-8644-f8a106c81ac4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hercules, god of strength",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hercules, god of strength</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-03T10:50:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706957441765",
+    "dcterms:modified" : "2024-02-03T10:50:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4746,544,1009,1657"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5739.59258,891.47293c-35.62917,-162.89328 -115.20153,-301.18684 -228.13153,-337.23117v0v0c-112.92999,-36.04433 -241.93645,28.14987 -381.6248,141.88507c-139.68835,113.7352 -246.25329,321.09856 -311.56744,537.88696c-65.31415,216.78841 -89.37749,443.00187 -58.9981,618.80197c30.3794,175.8001 115.20153,301.18684 228.13153,337.23117c112.92999,36.04433 253.96785,-17.25375 381.6248,-141.88507c127.65695,-124.63132 241.933,-320.59588 311.56744,-537.88696c69.63444,-217.29108 94.62727,-455.90869 58.9981,-618.80197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:17.763769465438074,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_80f21698-4342-4a93-b381-91c8e8fae4be\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hymen, god of marriage",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hymen, god of marriage</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:59:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706821171888",
+    "dcterms:modified" : "2024-02-03T10:48:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6014,2850,925,826"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6014.01294,2849.52489h462.38743v0h462.38743v413.22319v413.22319h-462.38743h-462.38743v-413.22319z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ff22274c-a06b-48ec-a773-b59f3a431f59\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"70.70652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Saturn, god of time, wealth and agriculture",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Saturn, god of time, wealth and agriculture</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-03T10:52:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706957540478",
+    "dcterms:modified" : "2024-02-03T10:52:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3805,1339,696,779"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3906.77249,1452.6058c64.2829,-65.41157 154.96434,-114.12135 246.08522,-114.06316v0v0c91.12088,0.0582 170.50246,45.62541 246.08522,114.06316c75.58277,68.43775 104.96083,172.72366 101.93184,275.37282c-3.02899,102.64916 -38.46504,203.66157 -101.93184,275.37282c-63.4668,71.71125 -154.96434,114.12135 -246.08522,114.06316c-91.12088,-0.0582 -181.8651,-42.58469 -246.08522,-114.06316c-64.22012,-71.47847 -101.91614,-171.90892 -101.93184,-275.37282c-0.01569,-103.4639 37.64894,-209.96125 101.93184,-275.37282z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_42af0428-70c2-431b-b7de-3acb3e1e0616\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+    } ]
+  } ],
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/lebrun_d1e9b6e942297eff969d843bc6a42b45.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
