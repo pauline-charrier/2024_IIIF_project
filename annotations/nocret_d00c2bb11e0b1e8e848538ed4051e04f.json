@@ -1,0 +1,567 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Philippe Charles, Duke of Anjou (1668-1671), second son of Louis XIV and Maria Theresa of Spain, portrayed as Cupid, god of desire and affection, with a quiver around his hip.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Philippe Charles, Duke of Anjou (1668-1671), second son of Louis XIV and Maria Theresa of Spain, portrayed as Cupid, god of desire and affection, with a quiver around his hip.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:03:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706814208111",
+    "dcterms:modified" : "2024-02-01T19:03:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3644,1710,337,374"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3644.05091,1709.5629h168.55513v0h168.55513v187.17237v187.17237h-168.55513h-168.55513v-187.17237z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_39836876-fa5a-4d8c-bbbe-95ae967d88a0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peaceful rural landscape as a backdrop representing the harmony of nature evoking Arcadia.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peaceful rural landscape as a backdrop representing the harmony of nature evoking Arcadia.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:14:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706814845475",
+    "dcterms:modified" : "2024-02-01T19:14:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=41,50,2476,642"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2516.45,49.71455h-1237.81137v0h-1237.81137v320.81364v320.81364h1237.81137h1237.81137v-320.81364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c8b2b18d-3045-4c8b-ba6a-843e2da10b5d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Atlant",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Atlant</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:11:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706814693372",
+    "dcterms:modified" : "2024-02-01T19:11:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2650,265,369,418"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2649.8191,264.73818h184.72273v0h184.72273v209.21909v209.21909h-184.72273h-184.72273v-209.21909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_028315a6-baf1-457b-a498-73c2737b859f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anne of Austria (1601-1666), Infanta of Spain and Queen of France (1615-1643), mother of Louis XIV and Philippe of Orl&eacute;ans. No longer alive when the painting was made. As the matriarch of the family, she is portrayed as Cybele, mother goddess of fertility and sits at the exact centre of the painting. She is holding a globe symbolising her political power as Queen regent (1643-1651).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Anne of Austria (1601-1666), Infanta of Spain and Queen of France (1615-1643), mother of Louis XIV and Philippe of Orl&eacute;ans. No longer alive when the painting was made. As the matriarch of the family, she is portrayed as Cybele, mother goddess of fertility and sits at the exact centre of the painting. She is holding a globe symbolising her political power as Queen regent (1643-1651).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:31:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706812275405",
+    "dcterms:modified" : "2024-02-01T18:31:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1825,1167,555,854"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1825.10818,1166.79793h277.26455v0h277.26455v426.96455v426.96455h-277.26455h-277.26455v-426.96455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b5175002-9d29-4597-94a0-f02566418ea4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Monsieur\" Philippe I, Duke of Orl&eacute;ans (1640-1701), younger brother of Louis XIV. He is portrayed as the Morning Star, announcing dawn.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Monsieur\" Philippe I, Duke of Orl&eacute;ans (1640-1701), younger brother of Louis XIV. He is portrayed as the Morning Star, announcing dawn.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T17:56:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706810189312",
+    "dcterms:modified" : "2024-02-01T17:56:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=412,1189,622,1420"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1033.87563,1189.28482h-310.92037v0h-310.92037v709.76146v709.76146h310.92037h310.92037v-709.76146z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1c59e432-7972-40bf-ba75-feb18f28c351\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Maria Theresa of Spain (1638-1683), Queen of France (1660-1683) and wife of Louis XIV. She is portrayed as Juno, queen of the gods.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Maria Theresa of Spain (1638-1683), Queen of France (1660-1683) and wife of Louis XIV. She is portrayed as Juno, queen of the gods.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:56:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706813794687",
+    "dcterms:modified" : "2024-02-01T18:56:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3378,1304,251,717"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3377.92241,1304.32306h125.6375v0h125.6375v358.45094v358.45094h-125.6375h-125.6375v-358.45094z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fe97a21f-e240-4e9d-8a49-64673a5e9f81\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anne Marie Louise of Orl&eacute;ans, Duchess of Montpensier, known as \"La Grande Mademoiselle\" (1627-1693), cousin of Louis XIV and heiress of a massive fortune which she decided to manage independently. She is portrayed as Diane, goddess of the moon and the hunt.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Anne Marie Louise of Orl&eacute;ans, Duchess of Montpensier, known as \"La Grande Mademoiselle\" (1627-1693), cousin of Louis XIV and heiress of a massive fortune which she decided to manage independently. She is portrayed as Diane, goddess of the moon and the hunt.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:10:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706814620124",
+    "dcterms:modified" : "2024-02-03T10:11:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3481,465,478,819"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3481.39505,465.14762h239.10466v0h239.10466v409.59935v409.59935h-239.10466h-239.10466v-409.59935z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_aeaca31a-d03c-4e61-93a3-9f3656c467fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.41056\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Henrietta Maria of France (1609-1669), aunt of Louis XIV, Queen consort of England, Scotland and Ireland (1625-1649). She is here portrayed as Amphitrite, goddess of the sea, consort of Poseidon, holding a trident and coral. She was no longer alive when the portrait was made.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Henrietta Maria of France (1609-1669), aunt of Louis XIV, Queen consort of England, Scotland and Ireland (1625-1649). She is here portrayed as Amphitrite, goddess of the sea, consort of Poseidon, holding a trident and coral. She was no longer alive when the portrait was made.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T17:48:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706809683197",
+    "dcterms:modified" : "2024-02-01T17:48:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=28,1151,361,1544"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M27.89162,1151.04581h180.64v0h180.64v771.81892v771.81892h-180.64h-180.64v-771.81892z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_95260610-0792-40ff-b7fe-cf4cb595d062\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marie Louise d'Orl&eacute;ans (1669-1689), future Queen of Spain, daughter of Philippe, Duke of Orl&eacute;ans and Princess Henrietta of England. She is portrayed as Iris, goddess of the rainbow with her distinctive butterfly wings.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Marie Louise d'Orl&eacute;ans (1669-1689), future Queen of Spain, daughter of Philippe, Duke of Orl&eacute;ans and Princess Henrietta of England. She is portrayed as Iris, goddess of the rainbow with her distinctive butterfly wings.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:03:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706810596813",
+    "dcterms:modified" : "2024-02-01T18:03:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1074,1514,310,917"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1073.88636,1513.80658h154.78273v0h154.78273v458.26546v458.26546h-154.78273h-154.78273v-458.26546z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_77229bb9-f0e3-450c-ae46-7e91090d19dd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Henrietta Anne of England (1644-1670), first wife of Philippe of Orl&eacute;ans (1661), daughter of King Charles I of England and Queen Henrietta Maria and mother of Marie Louise. She is here portrayed as Flora, goddess of spring.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Henrietta Anne of England (1644-1670), first wife of Philippe of Orl&eacute;ans (1661), daughter of King Charles I of England and Queen Henrietta Maria and mother of Marie Louise. She is here portrayed as Flora, goddess of spring.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:07:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706810878647",
+    "dcterms:modified" : "2024-02-01T18:07:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1158,813,639,685"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1158.26272,812.56707h319.45273v0h319.45273v342.58818v342.58818h-319.45273h-319.45273v-342.58818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1dcc50e3-9c6f-42d3-8d80-00f082074a2e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis, Dauphin of France (1661-1711), eldest son and heir apparent of Louis XIV and Maria Theresa of Spain, future grandfather of King Louis XV. He is portrayed here as Hymen, god of marriage and son of Apollo, holding a bridal torch and wearing a crown of laurels (like his father).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Louis, Dauphin of France (1661-1711), eldest son and heir apparent of Louis XIV and Maria Theresa of Spain, future grandfather of King Louis XV. He is portrayed here as Hymen, god of marriage and son of Apollo, holding a bridal torch and wearing a crown of laurels (like his father).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:51:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706813473699",
+    "dcterms:modified" : "2024-02-03T10:10:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2788,1636,493,613"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2787.65803,1635.90584h246.74752v0h246.74752v306.71462v306.71462h-246.74752h-246.74752v-306.71462z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_66dbbbd7-fb74-4a72-804a-d783cbae288d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.41056\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis XIV (1638-1715), King of France (1643-1715), known as the \"Sun King\", is portrayed here as Apollo, god of light, music and arts, knowledge and truth. He is wearing a luxurious golden garment and holding a sceptre in the form of the sun.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Louis XIV (1638-1715), King of France (1643-1715), known as the \"Sun King\", is portrayed here as Apollo, god of light, music and arts, knowledge and truth. He is wearing a luxurious golden garment and holding a sceptre in the form of the sun.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:46:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706813164212",
+    "dcterms:modified" : "2024-02-03T10:09:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2826,784,527,803"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2826.39542,783.72743h263.44424v0h263.44424v401.72132v401.72132h-263.44424h-263.44424v-401.72132z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b60ba8e5-1686-47c9-8613-a0ced52e9f43\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.41056\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Two legitimate children of Louis XIV and Maria Theresa of Spain, who died in infancy, presumably Anne Elisabeth (1662) and Marie Anne (1664).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Two legitimate children of Louis XIV and Maria Theresa of Spain, who died in infancy, presumably Anne Elisabeth (1662) and Marie Anne (1664).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:17:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706811451221",
+    "dcterms:modified" : "2024-02-01T18:17:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2255,2282,486,484"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2255.15546,2281.68909h243.24182v0h243.24182v241.88091v241.88091h-243.24182h-243.24182v-241.88091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b166fde4-b63b-469a-b22a-734f2c49de00\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Two children of Philippe of Orl&eacute;ans and Henrietta Anne of England portrayed as winged Amores playing with a lyre. Presumably Philippe Charles of Orl&eacute;ans, Duke of Valois (1664-1666) and Anne Marie of Orl&eacute;ans (1669-1728) future Queen of Sardinia.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Two children of Philippe of Orl&eacute;ans and Henrietta Anne of England portrayed as winged Amores playing with a lyre. Presumably Philippe Charles of Orl&eacute;ans, Duke of Valois (1664-1666) and Anne Marie of Orl&eacute;ans (1669-1728) future Queen of Sardinia.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:23:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706811796015",
+    "dcterms:modified" : "2024-02-01T18:24:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1436,2151,786,579"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1435.88818,2151.04181h392.94182v0h392.94182v289.51273v289.51273h-392.94182h-392.94182v-289.51273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f1e187f0-1b3e-48cf-b488-3c65f94b35e7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.33091\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marie Th&eacute;r&egrave;se (1667-1672), \"Madame Royale\", daughter of Louis XIV and Maria Theresa of Spain.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Marie Th&eacute;r&egrave;se (1667-1672), \"Madame Royale\", daughter of Louis XIV and Maria Theresa of Spain.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:58:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706813938002",
+    "dcterms:modified" : "2024-02-01T18:58:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3295,2094,414,615"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3295.22269,2093.66589h206.76946v0h206.76946v307.69448v307.69448h-206.76946h-206.76946v-307.69448z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a9061118-bfe1-410f-b8ac-abda992cf9e1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Atlant",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Atlant</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:11:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706814703249",
+    "dcterms:modified" : "2024-02-01T19:11:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3434,25,446,394"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3433.70274,25.21818h222.82818v0h222.82818v196.97091v196.97091h-222.82818h-222.82818v-196.97091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_83a61999-2376-4b18-bd9e-48aed049d243\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The three daughters of Gaston of Orl&eacute;ans and Marguerite of Lorraine, cousins of Louis XIV : Marguerite Louise of Orl&eacute;ans (1645-1721), Elisabeth Marguerite of Orl&eacute;ans (1646-1696) and Fran&ccedil;oise Madeleine of Orl&eacute;ans (1648-1664), the latter of whom had died at the time of the painting. They are portrayed here as the Three Graces.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The three daughters of Gaston of Orl&eacute;ans and Marguerite of Lorraine, cousins of Louis XIV : Marguerite Louise of Orl&eacute;ans (1645-1721), Elisabeth Marguerite of Orl&eacute;ans (1646-1696) and Fran&ccedil;oise Madeleine of Orl&eacute;ans (1648-1664), the latter of whom had died at the time of the painting. They are portrayed here as the Three Graces.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T18:37:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706812675221",
+    "dcterms:modified" : "2024-02-03T10:09:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1847,700,937,433"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1846.94245,700.30107h468.39062v0h468.39062v216.568v216.568h-468.39062h-468.39062v-216.568z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_bfe8fcab-3a6a-46b7-96db-6e93f9dd7fa4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.41056\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
+    } ]
+  } ],
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/nocret_d00c2bb11e0b1e8e848538ed4051e04f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
