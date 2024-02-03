@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://pauline-charrier.github.io/2024_IIIF_project/annotations/nocret_d00c2bb11e0b1e8e848538ed4051e04f.json", "https://pauline-charrier.github.io/2024_IIIF_project/annotations/poerson_369fdcf7e3546aad514b0ef7962189ba.json" ],
+  "otherContent" : [ "https://pauline-charrier.github.io/2024_IIIF_project/annotations/nocret_d00c2bb11e0b1e8e848538ed4051e04f.json", "https://pauline-charrier.github.io/2024_IIIF_project/annotations/poerson_369fdcf7e3546aad514b0ef7962189ba.json", "https://pauline-charrier.github.io/2024_IIIF_project/annotations/lebrun_d1e9b6e942297eff969d843bc6a42b45.json" ],
   "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/collection.json",
   "label" : "All annotations loaded in pauline-charrier/2024_IIIF_project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
