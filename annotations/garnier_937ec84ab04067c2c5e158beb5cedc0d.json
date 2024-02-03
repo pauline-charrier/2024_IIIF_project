@@ -1,0 +1,468 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sheet music",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sheet music</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:24:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819067329",
+    "dcterms:modified" : "2024-02-01T20:24:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=541,825,259,151"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M540.95593,825.10254h129.41972v0h129.41972v75.52336v75.52336h-129.41972h-129.41972v-75.52336z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_60ece7d5-d066-4853-bf79-16faa147bb88\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Instrument to measure angles",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Instrument to measure angles</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:28:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819313688",
+    "dcterms:modified" : "2024-02-01T20:28:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1359,1419,252,93"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1359.38215,1418.62789h126.09279v0h126.09279v46.36679v46.36679h-126.09279h-126.09279v-46.36679z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b05848a2-f774-408c-a6e6-f01d111a7071\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Medallion of Louis XIV in armour",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Medallion of Louis XIV in armour</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:21:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706818886378",
+    "dcterms:modified" : "2024-02-01T20:21:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=691,76,651,706"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M786.12879,179.53194c60.13866,-59.30183 144.97398,-103.4619 230.22041,-103.40914v0v0c85.24643,0.05276 159.51038,41.36379 230.22041,103.40914c70.71004,62.04535 98.19414,156.59049 95.36042,249.65175c-2.83372,93.06126 -35.98525,184.63865 -95.36042,249.65175c-59.37517,65.0131 -144.97398,103.4619 -230.22041,103.40914c-85.24643,-0.05276 -170.14049,-38.60708 -230.22041,-103.40914c-60.07993,-64.80206 -95.34574,-155.85185 -95.36042,-249.65175c-0.01468,-93.7999 35.22176,-190.34992 95.36042,-249.65175z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_4f80202a-c201-4a16-bec8-0bf548d453f7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Viola da braccio",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Viola da braccio</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:33:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819599609",
+    "dcterms:modified" : "2024-02-01T20:33:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=359,698,268,126"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M359.30909,698.03121h133.87273v0h133.87273v63.18182v63.18182h-133.87273h-133.87273v-63.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a0e05fbd-c39c-4d8a-bdbb-c4b16ac911ab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Viola da gamba",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Viola da gamba</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:34:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819658662",
+    "dcterms:modified" : "2024-02-03T10:34:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=74,247,471,1141"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M545.12402,449.45368c-2.54401,-104.55483 -24.84362,-188.41327 -68.29876,-201.0986v0v0c-43.45514,-12.68533 -100.86141,42.74895 -166.2801,132.12228c-65.41869,89.37333 -124.21219,237.58504 -166.85681,387.94772c-42.64462,150.36268 -69.14036,302.87634 -69.69106,416.51865c-0.5507,113.64231 24.84362,188.41327 68.29876,201.0986c43.45514,12.68533 104.97109,-36.71496 166.2801,-132.12228c61.30901,-95.40732 122.41109,-236.82166 166.85681,-387.94772c44.44572,-151.12606 72.23507,-311.96382 69.69106,-416.51865z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:16.385614456702584,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_940fd580-22b8-4f38-bc2a-19768291c677\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.58696\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Guitar",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Guitar</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:32:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819561618",
+    "dcterms:modified" : "2024-02-01T20:32:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=396,540,337,149"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M395.96364,539.63121h168.56364v0h168.56364v74.30909v74.30909h-168.56364h-168.56364v-74.30909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0036cd6c-ddce-4f09-83d5-05ff76257c73\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Plan",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Plan</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:29:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819343700",
+    "dcterms:modified" : "2024-02-01T20:29:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1290,1278,248,122"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1290.18188,1277.56581h124.09663v0h124.09663v60.88485v60.88485h-124.09663h-124.09663v-60.88485z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_842eec90-d019-49e3-8359-671898308dc0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Violin",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Violin</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:33:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819582173",
+    "dcterms:modified" : "2024-02-01T20:33:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=646,699,168,98"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M646,699.3403h84.12727v0h84.12727v48.78182v48.78182h-84.12727h-84.12727v-48.78182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_14955274-7a9c-4175-bba3-021771f8002b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Celestial globe",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Celestial globe</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:22:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706818938753",
+    "dcterms:modified" : "2024-02-01T20:22:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1301,904,386,370"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1357.15364,958.1408c35.65494,-31.0647 85.952,-54.19753 136.4928,-54.1699v0v0c50.5408,0.02764 94.57032,21.66803 136.4928,54.1699c41.92248,32.50187 58.21722,82.02844 56.53717,130.7777c-1.68005,48.74926 -21.33489,96.72121 -56.53717,130.7777c-35.20228,34.05649 -85.952,54.19753 -136.4928,54.1699c-50.5408,-0.02764 -100.87268,-20.22395 -136.4928,-54.1699c-35.62012,-33.94594 -56.52846,-81.64151 -56.53717,-130.7777c-0.0087,-49.13619 20.88223,-99.713 56.53717,-130.7777z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_01796074-e57a-4b25-8614-f0782400d7cb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Book by Virgil",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Book by Virgil</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:25:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819127012",
+    "dcterms:modified" : "2024-02-01T20:25:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1583,1296,333,95"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1582.95224,1296.19665h166.68141v0h166.68141v47.5771v47.5771h-166.68141h-166.68141v-47.5771z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_81939447-d80d-4f23-8b03-e1abed2f7ffe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bust of Athena",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bust of Athena</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:23:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819033005",
+    "dcterms:modified" : "2024-02-01T20:23:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1811,810,125,478"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1811.46988,809.71841h62.54831v0h62.54831v238.87591v238.87591h-62.54831h-62.54831v-238.87591z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3783183c-b323-44e5-be54-a537a3a3ee33\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "French bagpipes",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>French bagpipes</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:23:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706818999929",
+    "dcterms:modified" : "2024-02-01T20:23:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1283,638,283,173"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1283.20253,638.20253h141.73418v0h141.73418v86.5443v86.5443h-141.73418h-141.73418v-86.5443z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_582dbdaa-685c-4f03-9bdd-ed005957d018\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Compass",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Compass</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:26:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819164319",
+    "dcterms:modified" : "2024-02-01T20:26:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1659,1250,96,254"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1658.80638,1249.61955h48.24249v0h48.24249v126.75818v126.75818h-48.24249h-48.24249v-126.75818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6c953714-02b5-4fb7-bf2f-23f874ebcf3c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fruits representing abundance",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fruits representing abundance</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T20:29:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706819370977",
+    "dcterms:modified" : "2024-02-01T20:29:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=968,1171,314,304"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1236.28821,1215.73897c-29.02676,-25.52913 -69.97371,-44.53981 -111.11908,-44.5171v0v0c-41.14537,0.02271 -76.9899,17.8069 -111.11908,44.5171c-34.12918,26.7102 -47.39476,67.4114 -46.02703,107.47379c1.36773,40.06239 17.36878,79.48599 46.02703,107.47379c28.65825,27.9878 69.97371,44.53981 111.11908,44.5171c41.14537,-0.02271 82.12067,-16.62015 111.11908,-44.5171c28.99841,-27.89695 46.01994,-67.09341 46.02703,-107.47379c0.00709,-40.38037 -17.00027,-81.94466 -46.02703,-107.47379z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_70bad508-9d33-471f-b77f-56a5740f8ced\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
+    } ]
+  } ],
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/garnier_937ec84ab04067c2c5e158beb5cedc0d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
