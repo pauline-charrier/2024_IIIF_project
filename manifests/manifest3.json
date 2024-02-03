@@ -14,6 +14,9 @@
   }, {
     "label" : "Digital format",
     "value" : "JPEG"
+  }, {
+    "label" : "Additional note",
+    "value" : "Annotations are based on the analyses provided on the following website, under the supervision of the Réunion des Musées Nationaux (RMN) : https://histoire-image.org/"
   } ],
   "description" : [ {
     "@value" : "This manifest presents several portraits of Louis XIV. Royal propaganda: allegories and symbols in portraits of Louis XIV during his reign's prime, at a time marked by the turn towards absolute monarchy.",
@@ -386,12 +389,12 @@
     "ranges" : [ {
       "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government/knowledge",
       "@type" : "sc:Range",
-      "label" : "Knowledge",
+      "label" : "Patron of science",
       "canvases" : [ "http://62fd9a7f-a439-4d2d-875e-4a218dd18e2a" ]
     }, {
       "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government/arts",
       "@type" : "sc:Range",
-      "label" : "Arts",
+      "label" : "Protector of fine arts",
       "canvases" : [ "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce" ]
     }, {
       "@id" : "http://example.org/iiif/art-as-arsenal/range/good-government/diplomacy",
