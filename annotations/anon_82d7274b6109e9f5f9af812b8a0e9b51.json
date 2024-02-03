@@ -1,0 +1,204 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Masters of Requests and royal secretaries are standing around the table",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Masters of Requests and royal secretaries are standing around the table</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:53:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706817211905",
+    "dcterms:modified" : "2024-02-03T10:13:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=116,622,902,79"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M115.79184,622.12096h451.07032v0h451.07032v39.67792v39.67792h-451.07032h-451.07032v-39.67792z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f4ce8f40-4511-45bc-bef0-9e8d2eff43d9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.21739\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Statue of Prudentia, personification of prudence, holding a mirror and a snake, her attributes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Statue of Prudentia, personification of prudence, holding a mirror and a snake, her attributes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:40:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706816455335",
+    "dcterms:modified" : "2024-02-01T19:48:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1316,287,220,364"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1315.59494,286.60759h109.86076v0h109.86076v182.01266v182.01266h-109.86076h-109.86076v-182.01266z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f43efc37-82c2-465f-be0f-1d12f2fdbbef\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10.54852\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "King Louis XIV, wearing a bright golden coat, commanding the council with a typical gesture of the arm signalling leadership.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>King Louis XIV, wearing a bright golden coat, commanding the council with a typical gesture of the arm signalling leadership.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:43:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706816610720",
+    "dcterms:modified" : "2024-02-03T10:13:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=149,712,215,269"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M149.1955,711.55472h107.36428v0h107.36428v134.61463v134.61463h-107.36428h-107.36428v-134.61463z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0b970a0a-a0f3-4a23-bcd0-82720136ce75\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.21739\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sealing the royal letters patentes with the royal seal.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sealing the royal letters patentes with the royal seal.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:56:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706817380891",
+    "dcterms:modified" : "2024-02-01T19:56:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1199,696,378,257"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1198.77356,695.96062h189.11533v0h189.11533v128.46132v128.46132h-189.11533h-189.11533v-128.46132z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e2339834-dd10-4ff3-a1f3-5badb8eae04a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Statue of Justitia (Lady Justice) wearing a toga and holding a sword and scales, her main attributes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Statue of Justitia (Lady Justice) wearing a toga and holding a sword and scales, her main attributes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:40:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706816443831",
+    "dcterms:modified" : "2024-02-03T10:12:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=189,269,202,344"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M189.01266,268.88608h101v0h101v171.88608v171.88608h-101h-101v-171.88608z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b2c14f15-e172-4ea8-bf3c-8a8f846dcfb0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.21739\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Counsellors of State are sat following their rank.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Counsellors of State are sat following their rank.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:51:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706817088570",
+    "dcterms:modified" : "2024-02-03T10:13:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=448,714,533,157"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M448.07032,713.54149h266.47117v0h266.47117v78.35584v78.35584h-266.47117h-266.47117v-78.35584z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_53f825ee-ae6d-4691-be94-ede0b7cf3728\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.21739\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+    } ]
+  } ],
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/anon_82d7274b6109e9f5f9af812b8a0e9b51.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
