@@ -1,0 +1,237 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Doric column, reinforcing the antique style of the painting",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Doric column, reinforcing the antique style of the painting</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:26:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706815582706",
+    "dcterms:modified" : "2024-02-03T10:12:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=457,385,267,322"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M723.57143,707.66546h-133.33996v0h-133.33996v-161.08409v-161.08409h133.33996h133.33996v161.08409z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_bc23b889-ec0f-4b12-a8bc-ad258f8c4983\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.06522\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jupiter's thunderbolt",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jupiter's thunderbolt</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:21:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706815302299",
+    "dcterms:modified" : "2024-02-01T19:21:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=452,769,177,425"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M451.97107,768.99458h88.61302v0h88.61302v212.73146v212.73146h-88.61302h-88.61302v-212.73146z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_33a55dc1-ec2d-4210-acc8-a4fc1fec1f58\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A young Louis XIV (around 15 years old) portrayed as Jupiter, wearing a crown of oak leaves, a cuirass and the thunderbolt commonly associated with the Roman god.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A young Louis XIV (around 15 years old) portrayed as Jupiter, wearing a crown of oak leaves, a cuirass and the thunderbolt commonly associated with the Roman god.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:21:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706815275576",
+    "dcterms:modified" : "2024-02-01T19:21:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=756,404,455,647"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M755.6962,403.94033h227.33363v0h227.33363v323.70796v323.70796h-227.33363h-227.33363v-323.70796z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_236515f2-dfc2-471a-b532-6561910ef1f5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shield with episemon (decorated with the head of Medusa), representing Louis XIV's victory over the Fronde.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shield with episemon (decorated with the head of Medusa), representing Louis XIV's victory over the Fronde.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:29:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706815740867",
+    "dcterms:modified" : "2024-02-01T19:29:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=303,1552,458,268"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M303.02893,1551.67089h228.79385v0h228.79385v133.87975v133.87975h-228.79385h-228.79385v-133.87975z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_edfdeca5-46f4-4f8a-8e22-8191cae022e8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Latin inscription, which could be translated as follows: \"Jupiter applauding Louis, gave him his thunderbolt. Henceforth the world knew it had a new Jupiter.\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Latin inscription, which could be translated as follows: \"Jupiter applauding Louis, gave him his thunderbolt. Henceforth the world knew it had a new Jupiter.\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:18:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706815097178",
+    "dcterms:modified" : "2024-02-01T19:18:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=292,1836,1142,102"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M292.07148,1835.51628h570.89025v0h570.89025v51.24186v51.24186h-570.89025h-570.89025v-51.24186z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3c4efc88-49c7-4e36-b338-1ae09fe67001\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A Roman eagle (aquila), patron animal of Jupiter, symbol of power and majesty with thunderbolt under its talon.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A Roman eagle (aquila), patron animal of Jupiter, symbol of power and majesty with thunderbolt under its talon.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:25:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706815540557",
+    "dcterms:modified" : "2024-02-01T19:25:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=811,1230,574,534"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M811.18445,1230.42315h287.20253v0h287.20253v266.75949v266.75949h-287.20253h-287.20253v-266.75949z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_98bd661d-8b5a-452c-9a50-56eff0f36669\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Forge of Vulcan",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Forge of Vulcan</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153429486",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-01T19:30:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706815838081",
+    "dcterms:modified" : "2024-02-01T19:30:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=20,699,387,720"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M19.74684,698.90416h193.74864v0h193.74864v360.21338v360.21338h-193.74864h-193.74864v-360.21338z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2cb5f990-f6c7-47a4-ba2b-247d98e78269\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
+    } ]
+  } ],
+  "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/poerson_369fdcf7e3546aad514b0ef7962189ba.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
