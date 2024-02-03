@@ -3,6 +3,11 @@
   "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/manifests/manifest3.json",
   "@type" : "sc:Manifest",
   "label" : "Art as an arsenal of power: allegorical portraits of Louis XIV through the lens of IIIF technology",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/153429486/ca359418f456b2a653c78a7d468b6ddd/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Authors",
     "value" : "Various 17th-century artists of the French royal court",
@@ -82,6 +87,11 @@
         },
         "on" : "http://02b824fa-d90a-4432-9076-1380d7625a95"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/nocret_d00c2bb11e0b1e8e848538ed4051e04f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb",
@@ -133,6 +143,11 @@
         },
         "on" : "http://7bcca31c-2dbb-4a98-8fd3-5a1f8f1242eb"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/poerson_369fdcf7e3546aad514b0ef7962189ba.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4",
@@ -177,6 +192,11 @@
           "width" : 8409
         },
         "on" : "http://ef6bcfc3-bec8-45a9-bd28-f32775d16cb4"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/lebrun_d1e9b6e942297eff969d843bc6a42b45.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations"
       } ],
       "related" : ""
     }, {
@@ -229,6 +249,11 @@
         },
         "on" : "http://62fd9a7f-a439-4d2d-875e-4a218dd18e2a"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/testelin_e919af385af3a7ef9be627da54d54558.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce",
@@ -280,6 +305,11 @@
         },
         "on" : "http://68f40a7e-2b7b-459d-ac15-ce906b5f15ce"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/garnier_937ec84ab04067c2c5e158beb5cedc0d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://b92a6d70-fc18-456a-8e71-693f5ac08cf6",
@@ -327,6 +357,11 @@
           "width" : 1024
         },
         "on" : "http://b92a6d70-fc18-456a-8e71-693f5ac08cf6"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/noblin_790a62ce55883aa557f75a963c7009ba.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations"
       } ],
       "related" : ""
     }, {
@@ -378,6 +413,11 @@
           "width" : 1620
         },
         "on" : "http://d817c948-917c-4666-9937-03b6bc1dfc05"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://pauline-charrier.github.io/2024_IIIF_project/annotations/anon_82d7274b6109e9f5f9af812b8a0e9b51.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations"
       } ],
       "related" : ""
     } ]
